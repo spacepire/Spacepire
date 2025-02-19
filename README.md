@@ -8,6 +8,8 @@
   <img src="https://streak-stats.demolab.com/?user=spacepire&theme=dracula" height="150" alt="GitHub Streak Stats" />
 </div>
 
+
+
 ###
 
 # 💻 Tech Stack:
@@ -19,17 +21,8 @@
 
 ###
 
-<div align="left">
-  <a href="spacepire" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="omerfarukdasdemir0000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="ömer-faruk-daşdemir-87066a32a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ömer-faruk-daşdemir-87066a32a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omerfarukdasdemir0000@gmail.com) 
 
 ###
 
