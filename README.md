@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/TBtntp7sEWgbEGUfTM/giphy.gif" width="533" height="300" alt="Funny GIF" />
+  <img src="https://media0.giphy.com/media/TBtntp7sEWgbEGUfTM/giphy.gif" width="300" height="169" alt="Funny GIF" />
 </div>
 
 
