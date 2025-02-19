@@ -26,8 +26,8 @@
 
 ###
 
-<div align="center">
-  <img src="[https://media.giphy.com/media/abc123xyz456/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JnZHQ4ZDVwN2d6OHV5ZWYyZXF3OGRrMHFuaDdlNm1pZXdnaWwwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TBtntp7sEWgbEGUfTM/giphy.gif)" width="200" />
+<div style="text-align: center;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JnZHQ4ZDVwN2d6OHV5ZWYyZXF3OGRrMHFuaDdlNm1pZXdnaWwwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TBtntp7sEWgbEGUfTM/giphy.gif" width="300" alt="Açıklayıcı metin" />
 </div>
 
 ###
