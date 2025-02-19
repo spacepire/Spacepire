@@ -26,10 +26,9 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="20616959" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"></div>
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-
+<div align="center">
+  <img src="https://media.tenor.com/9AThg5DJqT0AAAAC/husshere.gif" width="300" alt="GIF">
+</div>
 
 ###
 
