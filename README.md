@@ -26,9 +26,10 @@
 
 ###
 
-<div style="text-align: center;">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JnZHQ4ZDVwN2d6OHV5ZWYyZXF3OGRrMHFuaDdlNm1pZXdnaWwwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TBtntp7sEWgbEGUfTM/giphy.gif" width="300" alt="Açıklayıcı metin" />
+<div align="center">
+  <img src="https://media0.giphy.com/media/TBtntp7sEWgbEGUfTM/giphy.gif" width="533" height="300" alt="Funny GIF" />
 </div>
+
 
 ###
 
