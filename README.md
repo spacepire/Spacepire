@@ -26,9 +26,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://media.tenor.com/9AThg5DJqT0AAAAC/husshere.gif" width="300" alt="GIF">
-</div>
+![Cool GIF](https://github.com/spacepire/gif/blob/main/Old%20Man%20Sunglasses%20GIF%20by%20Xbox.gif?raw=true)
 
 ###
 
