@@ -2,21 +2,9 @@
   <img src="./assets/spacepire-cover.png" width="100%" alt="A cosmic eye watching over an alien landscape" />
 </p>
 
-<h1 align="center">SPACEPIRE</h1>
-
 <p align="center">
-  <strong>I build strange worlds, systemic games, and the machinery behind them.</strong>
+  <img src="./assets/celestial-profile.svg" width="100%" alt="SPACEPIRE — I build strange worlds, systemic games, and the machinery behind them. Unity Developer · Game Designer · Worldbuilder. Selected Work." />
 </p>
-
-<p align="center">
-  Unity Developer &nbsp;·&nbsp; Game Designer &nbsp;·&nbsp; Worldbuilder
-</p>
-
-<p align="center">
-  Working across gameplay code, systems, level design, and narrative.
-</p>
-
-<h2 align="center">SELECTED WORK</h2>
 
 <table>
   <tr>
