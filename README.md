@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/spacepire-cover.png" width="100%" alt="A cosmic eye watching over an alien landscape" />
-</p>
-
-<p align="center">
   <img src="./assets/celestial-profile.svg" width="100%" alt="SPACEPIRE — I build strange worlds, systemic games, and the machinery behind them. Unity Developer · Game Designer · Worldbuilder. Selected Work." />
 </p>
 
